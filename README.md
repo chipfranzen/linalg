@@ -6,7 +6,7 @@ Code for a project investigating various linear algebra algorithms including:
     + Naive
     + Recursive
     + Strassen
-    + discussion (on my blog)[http://charlesfranzen.com/posts/time-complexity-of-matrix-multiplication/]
+    + discussion [on my blog](http://charlesfranzen.com/posts/time-complexity-of-matrix-multiplication/)
 
 * Matrix reductions:
     + Givens Rotations
